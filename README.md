@@ -54,8 +54,3 @@ This is a web application where Cutomer executives can resolve issues of client 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/900px-Socket-io.svg.png?20200308235956" alt="socket.io" width="40" height="40"/> </a>
 <br/>
-
-### Connect with me :
-
-<a href="https://twitter.com/avinashdunna" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Avinash905 | LinkedIn" height="35" width="35" /></a>
-<a href="https://twitter.com/avinashdunna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avinashdunna" height="30" width="40" /></a>
