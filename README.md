@@ -1,10 +1,8 @@
 # ChatterBox
 
 <h3>Description :</h3> 
-This is a web application where you can chat with others.
+This is a web application where Cutomer executives can resolve issues of client over chat .
 
-👉[Click here](https://chatterbox-main.onrender.com/) to check out the app.
-<br/>
 
 ### 📃Features :
 
